@@ -1,1 +1,1 @@
-print("Today ids day one")
+print("Today is day one")
